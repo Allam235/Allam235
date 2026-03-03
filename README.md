@@ -17,7 +17,7 @@ I’m a Computer Science Engineering student at **The Ohio State University**. I
 ## 🚀 What I’m Working On
 
 * Developing and analyzing **machine learning models** for real-world datasets, including imbalance-aware clinical prediction tasks
-* Building **full-stack applications** using React/Next.js with production-style workflows
+* Building **full-stack applications** using React/Next.js with production-style workflows with the Collaborative Software Development CLub as a Team Lead
 * Applying ML and data systems concepts to **healthcare and biomedical problems**
 * Supporting students as a **Teaching Assistant for CSE 2421 (Programming in C)**
 
