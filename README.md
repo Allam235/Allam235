@@ -10,15 +10,16 @@ I’m a Computer Science Engineering student at **The Ohio State University**. I
 * 🤖 Machine Learning & Neural Networks
 * 📊 Data-driven modeling and analysis
 * ⚙️ Systems programming (C, low-level concepts)
-* 🌐 Full-stack web development
-
+  
 ---
 
 ## 🚀 What I’m Working On
 
-* Developing and analyzing **machine learning models** for real-world datasets, including imbalance-aware clinical prediction tasks
-* Building **full-stack applications** using React/Next.js with production-style workflows with the Collaborative Software Development Club at OSU as a Team Lead
 * Applying ML and data systems concepts to **healthcare and biomedical problems**
+* Currently Creating a RAG Application for a Patient Database(FHDIR Bundle) using Langchain and SQLite
+  * https://github.com/Allam235/Synthetic_Patient_Data_Retrival
+* Teaching Other Students Backend System Solutions with Typescript and Python as a Project Lead in the Collaborative Software Development Club at OSU
+  * https://github.com/Collaborative-Software-Development-Club
 * Supporting students as a **Teaching Assistant for CSE 2421 (Programming in C)**
 
 ---
@@ -26,4 +27,4 @@ I’m a Computer Science Engineering student at **The Ohio State University**. I
 ## 📫 How to Reach Me
 
 * 📧 Email: [allamaneni.1@buckeyemail.osu.edu](mailto:allamaneni.1@buckeyemail.osu.edu)
-* 🔗 GitHub: [https://github.com/Allam235](https://github.com/Allam235)
+* 🔗 linkedin: [https://www.linkedin.com/in/rithvik-allamanen](https://www.linkedin.com/in/rithvik-allamaneni-264989266/)
