@@ -16,7 +16,7 @@ I’m a Computer Science Engineering student at **The Ohio State University**. I
 ## 🚀 What I’m Working On
 
 * Applying ML and data systems concepts to **healthcare and biomedical problems**
-* Currently Creating a RAG Application for a Patient Database(FHDIR Bundle) using Langchain and SQLite
+* Currently Creating a RAG Application for a Patient Database(FHIR Bundles) using Langchain and SQLite
   * https://github.com/Allam235/Synthetic_Patient_Data_Retrival
 * Teaching Other Students Backend System Solutions with Typescript and Python as a Project Lead in the Collaborative Software Development Club at OSU
   * https://github.com/Collaborative-Software-Development-Club
